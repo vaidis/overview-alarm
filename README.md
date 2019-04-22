@@ -1,6 +1,9 @@
 # Overview Alarm
-Overview Alarm ψαν warning the IT room if a host goes down, by eνabling an alarm light, and speak a warning message like "Warning, the host geoserver is down"   
+Overview Alarm can warning the IT room if a host goes down, by enabling an alarm light, and speak a warning message like "Warning, the host geoserver is down"   
 Its based on Overview Back project   
+
+![Alt text](https://github.com/vaidis/overview-alarm/blob/master/images/overview_alarm_final.jpg?raw=true)
+![Alt text](https://github.com/vaidis/overview-alarm/blob/master/images/overview_alarm_connections.jpg?raw=true)
 
 ## Setup
 * *Edit the language
