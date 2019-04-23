@@ -4,6 +4,7 @@ Its based on Overview Back project
 
 ![Alt text](https://github.com/vaidis/overview-alarm/blob/master/images/overview_alarm_final.jpg?raw=true)
 ![Alt text](https://github.com/vaidis/overview-alarm/blob/master/images/overview_alarm_connections.jpg?raw=true)
+![Alt text](https://github.com/vaidis/overview-alarm/blob/master/images/overview_alarm_bb.png?raw=true)
 
 ## Setup
 * *Edit the language
